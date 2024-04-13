@@ -1,2 +1,2 @@
 # salt-pepper
-visit: http://crooked-mouth.surge.sh/
+visit: https://muhammadsharooz.github.io/salt-pepper/
