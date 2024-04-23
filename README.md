@@ -1,2 +1,2 @@
 # salt-pepper
-visit: https://muhammadsharooz.github.io/salt-pepper/
+visit: http://villagesaltnpepper.surge.sh/
